@@ -1,3 +1,7 @@
+git add README.md
+git commit -m "docs: create comprehensive README and Markdown guide"
+git push -u origin main
+
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
 ![Last Commit](https://img.shields.io/github/last-commit/Harsh-Tomar30/cse103-lab-LAB3)
