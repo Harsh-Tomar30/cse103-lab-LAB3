@@ -10,6 +10,8 @@
 ## Unordered List
 - Python
 - Java
+   Nested item B1
+   Nested item B2
 - C++
 
 ## Ordered List
@@ -35,7 +37,7 @@ print("Welcome to Ubuntu")
 ## Tables
 
 | Name | Course | Year |
-|---|---|---|
+|:---|:---:|---:|
 | Rahul | CSE | 1st |
 | Aman | IT | 2nd |
 | Ravi | AI/ML | 1st |
