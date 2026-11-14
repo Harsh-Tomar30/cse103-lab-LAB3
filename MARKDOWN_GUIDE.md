@@ -7,11 +7,12 @@
 *Italic Text*
 
 ~~Strikethrough Text~~
+
 ## Unordered List
 - Python
 - Java
-   Nested item B1
-   Nested item B2
+ - Nested item B1
+ - Nested item B2
 - C++
 
 ## Ordered List
